@@ -3,4 +3,5 @@ Pascal - JAVA - R-info
 
 Compañero de estudio: Maximiliano Armando Altamirano
 
-![photo-1605379399843-5870eea9b74e](https://user-images.githubusercontent.com/92184167/187037803-a103e743-d03b-46ee-836f-c97453aeea19.jpg)
+
+![hand-g43d74da30_640](https://user-images.githubusercontent.com/92184167/187038450-c6e4ebf4-b68b-499e-927d-a95b69c67444.jpg)
