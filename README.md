@@ -1,10 +1,6 @@
 # Taller-de-Programacion-2022
 Pascal - JAVA - R-info
 
-Yo creo que cada uno tenemos que estudiar por uno mismo, esforzarse, perseverar y trabajar para salir adelante.
-
-No esperar que otro siempre te solucione el problema.
-
 Pedir ayuda si es necesario y buscar la manera de solucionar el problema.
 
 "Los 7 Hábitos de la Gente Altamente Efectiva" Stephen R. Covey
