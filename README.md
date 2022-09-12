@@ -1,4 +1,8 @@
 # Taller-de-Programacion-2022
 Pascal - JAVA - R-info
 
-![hand-g43d74da30_640](https://user-images.githubusercontent.com/92184167/187038450-c6e4ebf4-b68b-499e-927d-a95b69c67444.jpg)
+
+
+
+
+![astronaut-g25f937125_640](https://user-images.githubusercontent.com/92184167/189751548-faa3fd4a-9d44-41cb-aafb-cfea4ad372ab.jpg)
