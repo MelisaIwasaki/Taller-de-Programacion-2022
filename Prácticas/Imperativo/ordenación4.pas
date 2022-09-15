@@ -102,18 +102,16 @@ begin
 end;
 {b. Una vez almacenados, muestre los códigos de los productos pertenecientes a cada rubro.
 d. Ordene, por precio, los elementos del vector generado en b) utilizando alguno de los dos métodos vistos 
-en la teoría.
-(El vector es de lista, asi que tendria que usar insertarOrdenado de lista.
-Pero en el enunciado dice que use algunos metodos de la teoria?)    
-}
+en la teoría.   }
+
 procedure ordSeleccion(var v:vector);
 var
-  i,j,p:integer; item:tipoElem;
+  i,j,p:integer; item:lista;
 begin
   for i:= 1 to dimF-1 do begin
     p:=i;
     for j:= i+1 to dimF do
-      if(v[j].precio < v[p].precio)then //main.pas(112,15) Error: Illegal qualifier
+      if(v[j]^.dato.precio < v[p]^.dato.precio)then 
         p:=j;
     item:=v[p];
     v[p]:=v[i];
@@ -129,6 +127,6 @@ begin
   cargar(v);
   mostrarVecLista(v);
   generarRubroTres(vt,dimL,v);
- // ordenar(v);
+  ordSeleccion(v);
   mostrarVecLista(v);
 end.
